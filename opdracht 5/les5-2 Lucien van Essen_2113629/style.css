@@ -1,0 +1,12 @@
+body{
+    font-family: arial, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black
+}
+
+.div{
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
